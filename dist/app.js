@@ -20,3 +20,4 @@ function inc(speed, inc) {
 }
 console.log("inc (5,1) = " + inc(5, 1));
 console.log("inc (5) = " + inc(5));
+console.log("Git deu certo");

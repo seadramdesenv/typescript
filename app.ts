@@ -22,11 +22,10 @@ let call = (name: string) => console.log(`Do you copy, ${name}`)
 call('R2')
 
 
-
 function inc (speed: number, inc: number = 1): number{
     return speed + inc
 }
 
 console.log(`inc (5,1) = ${inc(5,1)}`)
 console.log(`inc (5) = ${inc(5)}`)
-console.log("Git deu certo ")
+console.log("Git deu certo")
